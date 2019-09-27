@@ -1,9 +1,9 @@
-int numero1 = 0;
-int numero2 = 0;
+int number1 = 0;
+int number2 = 0;
 
-System.out.pritnln("Introduce el primer numero:");
-numero1 = reader.nextInt();
+System.out.pritnln("write first number:");
+number1 = reader.nextInt();
 
-System.out.pritnln("Introduce el segundo numero:");
-numero2 = reader.nextInt();
+System.out.pritnln("write second number:");
+number2 = reader.nextInt();
 
